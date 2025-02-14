@@ -23,9 +23,4 @@ Livingstorne/Livingstorne is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![Test](https://img.shields.io/badge/Test-passing-brightgreen)
-![Contributors](https://img.shields.io/github/contributors/YourUsername/YourRepo)
-![Codecov](https://img.shields.io/codecov/c/github/YourUsername/YourRepo?logo=codecov)
-![Issues](https://img.shields.io/github/issues/Livingstorne/YLivingstorne?color=blue)
-![Pull Requests](https://img.shields.io/github/issues-pr/YourUsername/YourRepo?color=blue)
-![OpenSSF Scorecard](https://img.shields.io/badge/openssf%20scorecard-7.3-yellowgreen)
+
