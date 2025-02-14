@@ -8,6 +8,10 @@
 ![Static Badge](https://img.shields.io/badge/CompTIA-Security%2B-green?style=social&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-green?style=social&logoColor=black)
 
+| ![AWS](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange) | ![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B-red) | ![ISC2](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-green) |
+|---|---|---|
+
+
 
 
 
