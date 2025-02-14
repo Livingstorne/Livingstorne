@@ -7,6 +7,7 @@
  
 ![Static Badge](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practioner-green?style=social&logo=amazon&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-green?style=social&logoColor=black)
+![Static Badge](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-green?style=social&logoColor=black)
 
 
 
