@@ -1,6 +1,7 @@
  <h1 align="center">Hi 👋, I'm Ivan Zziwa</h1>
 
- 
+ ![Test](https://img.shields.io/badge/Test-passing-brightgreen)
+
  <h3 align="center">Welcome to my github repo</h3>
  <h1 align="left">Certifications</h1>
 - 👀 I’m interested in ...
