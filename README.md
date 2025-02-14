@@ -3,16 +3,19 @@
 
  <h3 align="center">Welcome to my github repo</h3>
  <h1 align="left">Certifications</h1>
- 
+
+<!-- 
+| ![AWS](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange) | ![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B-red) | ![ISC2](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-green) |
+|---|---|---|
+
 ![Static Badge](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practioner-green?style=social&logo=amazon&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/CompTIA-Security%2B-green?style=social&logoColor=black)
-![Static Badge](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-green?style=social&logoColor=black)
+![Static Badge](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-green?style=social&logoColor=black) -->
 
 | ![Static Badge](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practioner-green?style=social&logo=amazon&logoColor=black) | ![Static Badge](https://img.shields.io/badge/CompTIA-Security%2B-green?style=social&logoColor=black) | ![Static Badge](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-green?style=social&logoColor=black) | 
 |---|---|---|
 
-| ![AWS](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange) | ![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B-red) | ![ISC2](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-green) |
-|---|---|---|
+
 
 
 
