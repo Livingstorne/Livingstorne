@@ -1,10 +1,7 @@
-# 👋 Welcome!
-
-<img src="https://github.com/YourUsername/YourUsername/blob/main/profile-pic.jpg" width="150" height="150" align="right"> 
+<h1 align="center">👋 Welcome!</h1>
 I'm Ivan Zziwa! I’m passionate about Cybersecurity, AI, and Software Development. Currently, I'm working on several projects related to security and AI-driven network monitoring.
 
-<br><br><br><br>
- 
+
 
 <!-- 
 | ![AWS](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange) | ![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B-red) | ![ISC2](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-green) |
@@ -30,9 +27,10 @@ I hold these certifications that help me stay updated with best practices in **c
 
 
 ### 📬 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ivan-zziwa/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ivan-zziwa/) <br>
+[![Email](https://img.shields.io/badge/Email-Send%20a%20Message-blue?style=flat-square&logo=microsoft-outlook)](mailto:ivanlivingstone206@gmail.com)
 
-📧 [Email](mailto:your.email@example.com)  
+
 > 🚧 **This repository is a work in progress** – expect updates soon! 🚀  
 
 <!---
